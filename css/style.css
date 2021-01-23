@@ -123,6 +123,7 @@ section {
 
 .aside .nav li {
     display: block;
+    background-color: red;
 }
 
 .aside .nav li a {
